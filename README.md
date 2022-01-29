@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeljcamara" alt="rafaeljcamara" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@rafaeljcamara](https://medium.com/@rafaeljcamara)
+- 📝 I regularly write articles on [https://rafaeljcamara.hashnode.dev/](https://rafaeljcamara.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
